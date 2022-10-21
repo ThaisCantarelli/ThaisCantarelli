@@ -2,7 +2,7 @@
 
 .🙋🏻‍♀️ Tenho 25 anos
 
-.👩🏻‍🎓 Cursando Análise e desenvolvimento de sistema
+.👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 .💞️ Tenho uma quedinha por banco de dados
 
