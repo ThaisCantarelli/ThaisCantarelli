@@ -8,4 +8,4 @@
 
 .📫 [Linkedin](https://www.linkedin.com/in/thaiscantarelli/)
 
-.🌱 HTLM5 | CSS3 | Javascript | Node.js | SQL
+.🌱 HTLM5 | CSS3 | Javascript | FIREBASE | JAVA | SQL | API 
